@@ -94,9 +94,6 @@ pip install tensorflow numpy matplotlib scikit-learn
 | ReduceLROnPlateau | factor=0.5, patience=3, min_lr=1e-6    |
 | EarlyStopping     | patience=10, restore_best_weights=True |
 
-
-```
-
 ## 🔍 Visualizations
 
 The notebook includes:
